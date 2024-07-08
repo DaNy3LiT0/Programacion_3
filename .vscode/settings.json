@@ -1,3 +1,15 @@
 {
-    "CodeGPT.apiKey": "Ollama"
+  "CodeGPT.apiKey": "Ollama",
+  "cSpell.language": "en,es,es-ES",
+  "cSpell.words": [
+    "anio",
+    "imshow",
+    "lastrowid",
+    "Miley",
+    "pymysql",
+    "Sancor",
+    "Santillan"
+  ],
+  "editor.wordWrap": "on",
+  "CodeGPT.Autocomplete.provider": "Ollama - codeqwen:code"
 }
